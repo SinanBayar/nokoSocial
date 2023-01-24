@@ -12,7 +12,9 @@ Yapılan çalışmada "html", "css" ve "javascript" kullanılmıştır.
 
 [Yapılan çalışmanın youtube videosuna buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=AiFfDjmd0jU&ab_channel=EGATOR)
 
-[Kullanılan bazı simgelere de buradan ulaşabilirsiniz.](https://fontawesome.com/)
+[Kullanılan bazı simgelere de buradan ulaşabilirsiniz.](https://iconscout.com)
+
+[Kullanılan fonta da buradan ulaşabilirsiniz.](https://fonts.google.com/)
 
 
 
